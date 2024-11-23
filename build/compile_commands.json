@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/mwiner/projects/PSPHttp/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/PSPHttp.dir/main.cpp.o -c /home/mwiner/projects/PSPHttp/main.cpp",
+  "file": "/home/mwiner/projects/PSPHttp/main.cpp",
+  "output": "CMakeFiles/PSPHttp.dir/main.cpp.o"
+}
+]

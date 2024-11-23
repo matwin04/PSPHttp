@@ -1,0 +1,3 @@
+/home/mwiner/projects/PSPHttp/build/CMakeFiles/PSPHttp.dir
+/home/mwiner/projects/PSPHttp/build/CMakeFiles/edit_cache.dir
+/home/mwiner/projects/PSPHttp/build/CMakeFiles/rebuild_cache.dir
